@@ -2,16 +2,16 @@
   "name": "net.narazaka.unity.copy-assets-with-dependency",
   "version": "1.0.0",
   "displayName": "CopyAssetsWithDependency",
-  "description": "CopyAssetsWithDependency",
+  "description": "Copy Assets with dependency",
   "author": {
     "name": "Narazaka",
     "url": "https://github.com/Narazaka"
   },
   "license": "Zlib",
   "type": "tool",
-  "url" : "https://github.com/Narazaka/CopyAssetsWithDependency.git",
-  "unity": "2022.3",
-  "vpmDependencies": {
-    "com.vrchat.worlds": ">=3.7.4"
+  "url": "https://github.com/Narazaka/CopyAssetsWithDependency.git",
+  "unity": "2017.1",
+  "legacyFolders": {
+    "Assets\\CopyAssetsWithDependency": "d12c5aff8a18ec64ba0f3afdd8d31b08"
   }
 }
